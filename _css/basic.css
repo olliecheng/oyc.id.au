@@ -1,6 +1,7 @@
 /* ==================================================================
     Header and Nav
 ================================================================== */
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@400;500&display=swap');
 
 nav {
   width: 64%;
@@ -21,7 +22,7 @@ nav li a {
   color: #004de6;
   text-decoration: none;
   font-size: 18px;
-  font-weight: bold;
+  font-weight: 500;
   display: inline-block;
   float: center;
   padding-top: 10px;
@@ -34,26 +35,41 @@ nav li a {
   transition: color 0.3s ease;
 }
 
+nav li:last-child a {
+  margin-right: -8px;
+}
+
 header {
   text-align: right;
   margin-top: 50px;
   margin-bottom: 50px;
   display: flex;
   align-items: center;
+
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: 400;
 }
 
 header .blog-name {
   width: 35%;
   display: inline-block;
   text-align: left;
-  font-size: 18px;
-  font-family: "Lucida Console", Monaco, monospace;
+  font-size: 25px;
+  font-weight: 500;
+  /* font-family: "Lucida Console", Monaco, monospace; */
   padding-top: 10px;
+  font-family: 'Fira Sans', sans-serif;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
 }
 
 header .blog-name a {
-  color: #a6a2a0;
+  /* color: #a6a2a0; */
+  color: black;
   text-decoration: none;
+  display: block;
 }
 
 header li a:hover {
@@ -91,8 +107,10 @@ header li a:hover {
 /*
 medium display: nav goes under name
 */
-@media (max-width: 760px) {
-  header { display: block; }
+@media (max-width: 600px) {
+  header {
+    display: block;
+  }
 
   header .blog-name {
     display: block;
@@ -109,7 +127,7 @@ medium display: nav goes under name
 narrow display: collapse the header (don't show the menu items)
 instead, display a burger menu.
 */
-@media (max-width: 500px) {
+@media (max-width: 230px) {
   header {
     height: 35px;
     display: flex;
@@ -147,8 +165,14 @@ instead, display a burger menu.
     padding: 0;
     margin: 0;
   }
-  header li a { border-bottom: none; }
-  header li a:hover { border-bottom: none; }
+
+  header li a {
+    border-bottom: none;
+  }
+
+  header li a:hover {
+    border-bottom: none;
+  }
 
   nav:hover ul {
     display: block;
@@ -174,7 +198,7 @@ tr:first-of-type {
   background: #eae9f4;
 }
 
-tr:first-of-type > th {
+tr:first-of-type>th {
   text-align: center;
 }
 
@@ -187,4 +211,25 @@ td {
 
 table tbody tr td {
   border: 1px solid lightgray;
+}
+
+.profile-splash img {
+  height: 150px;
+  width: auto !important;
+  margin-left: 0;
+
+  border-radius: 4px;
+  /* box-shadow: #cccccc 1px 1px 10px; */
+}
+
+/* wide display: enforce maximum width of header to match content */
+@media (min-width: 570px) {
+  .profile-splash {
+    float: right;
+  }
+}
+
+.blog-name .main-img {
+  height: 50px;
+  margin-right: 10px;
 }
