@@ -2,12 +2,12 @@
 Add here global page variables to use throughout your website.
 -->
 +++
-author = "Septimia Zenobia"
+author = "Oliver Cheng"
 mintoclevel = 2
 
 # uncomment and adjust the following line if the expected base URL of your website is something like [www.thebase.com/yourproject/]
 # please do read the docs on deployment to avoid common issues: https://franklinjl.org/workflow/deploy/#deploying_your_website
-# prepath = "yourproject"
+prepath = "oyc.id.au"
 
 # Add here files or directories that should be ignored by Franklin, otherwise
 # these files might be copied and, if markdown, processed by Franklin which
@@ -17,9 +17,9 @@ ignore = ["node_modules/"]
 
 # RSS (the website_{title, descr, url} must be defined to get RSS)
 generate_rss = true
-website_title = "Franklin Template"
-website_descr = "Example website using Franklin"
-website_url   = "https://tlienart.github.io/FranklinTemplates.jl/"
+website_title = "Ollie's updates"
+website_descr = "Anything on my mind, really"
+website_url   = "https://oyc.id.au/"
 +++
 
 <!--
