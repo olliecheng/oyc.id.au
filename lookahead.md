@@ -12,7 +12,7 @@ This was, predictably, a death sentence for Lookahead. The application required 
 
 Luckily, a couple of people came in and saved the day... kinda. I was one of those people! We figured out how to simulate the authentication flow. The server was no longer a random internet stranger trying to figure out when Wine Tasting classes were held, it was now (supposedly) a student who was just oddly obsessed with Wine Tasting. The fork can be found [here](https://theepiccowoflife-lookahead.herokuapp.com/).
 
-But this was a band-aid over old code. Unfortunately, Lookahead was showing its age and while we were able to monkeypatch it, it broke soon after. While we could take the easy way out and spend a couple of days fixing it up, we felt like it was time to sit down and re-architect the codebase so it would be maintainable for us and for future students who would assume responsibility for the codebase.
+But this was a band-aid over old code. Unfortunately, Lookahead was showing its age and while we were able to monkeypatch it, it broke soon after. While we could take the easy way out and spend a couple of days fixing it up, we felt like it was time to sit down and re-architect the codebase so it would be maintainable. Not only for us, but also for future students who would assume responsibility for the codebase.
 
 So that's where you come in. I want to get together a band of warriors to rewrite some of the original code (see here: original [GitHub](https://github.com/Trontor/lookahead/) and Quang's [fork](https://github.com/theepiccowoflife/lookahead/)), fix up the issues, who knows, maybe make it prettier.
 
