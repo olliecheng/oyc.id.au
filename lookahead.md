@@ -6,7 +6,7 @@ Hi, this is a bit of information about a project I'm brewing up. I'd like to rev
 
 ![Untitled](/assets/portfolio/Untitled.png)
 
-A bit of lore first. The original Lookahead is unfortunately no longer on the internet, and was developed by a Rohyl J. who to the best of our knowledge is now working at Optiver. It was great at what it did, and served a valuable role in the University of Melbourne community as a way to organise timetables - Allocate+ just wasn't cutting it for people with more complex timetable layouts.
+A bit of lore first. The original Lookahead is unfortunately no longer on the internet, and was developed by a Rohyl J. who to the best of our knowledge is now working at Optiver. It was great at what it did, and served a valuable role in the University of Melbourne community as a way to organise timetables -- Allocate+ just wasn't cutting it for people with more complex timetable layouts.
 
 Unfortunately, in 2023, the University decided to change the way timetable data was accessible. Unlike previously, it was no longer public; now, students must first log-in with their student accounts before being able to access data.
 
