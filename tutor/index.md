@@ -22,7 +22,7 @@ This page is a small collection of the resources, write-ups, and guides which I'
 ## My articles
 * My [WACE Resources Guide](/posts/wace-resources-guide) has been quite popular; it's a list of which exams and textbooks I found useful during my own studies.
 * [A few UCAT tips](/posts/ucat-tips) contains some advice from when I took the UCAT. At the time I scored a 3200 (after technical difficulties).
-* I hold a free annual [Interview tips](/posts/interview-tips) seminar where I give prospective applicants some simple, practical advice on how to succeed during the face-to-face medical interview process. It'll be back this year - watch out!
+* I hold a free annual [Interview tips](https://checkpointeducation.com.au/blog/interview-prep-23) seminar where I give prospective applicants some simple, practical advice on how to succeed during the face-to-face medical interview process. It'll be back this year - watch out!
 * I was asked to prepare a slide on my [current university study plan](/posts/uni-study-plan) for a talk. I've linked it here in case there's anybody interested in studying Maths & Stats and where that can take you.
 * I used to run the [WACE papers archive](https://olliecheng.me/papers) ([GitHub](https://github.com/olliecheng/wace-paper-archive)) which was also quite popular, but unfortunately have had to take it down due to concerns about copyright. I am no longer responding to requests for resources. However, a little birdie tells me that the files live on...
 
