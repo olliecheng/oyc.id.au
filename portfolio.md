@@ -22,6 +22,8 @@ Part of my work with Flexiplex has included:
 - Package management of a C++ program for bioconda
 - Development of a [utility Python script](https://github.com/DavidsonGroup/flexiplex/tree/main/scripts) to numerically determine knee and inflection points, as well as graph them
 - Documenting my work
+- Present posters at conferences, including OzSingleCell and ABACBS
+- I will be presenting a 2 minute "flash talk" at the peak Australian bioinformatics conference, ABACBS, on our lab's work
 
 ## 2023: Lookahead
 
