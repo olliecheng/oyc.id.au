@@ -10,7 +10,7 @@ At the moment, I'm a Chancellor's Scholar (and Honours List recipient) at the [U
 
 I also do some research work (bioinformatics) at the [Walter and Eliza Hall Institute](https://wehi.edu.au) in Melbourne. I plan to write more about my journey into academic research, and the transition from high school into university. If you're an ambitious student and are interested in research, I'd love to chat.
 
-I offer tuition for both individuals and [small group classes](https://checkpointeducation.com.au). My current rate for 1-1 classes is \$70/h.
+I offer tuition for both individuals and [small group classes](https://checkpointeducation.com.au). My current rate for 1-1 classes is \$80/h.
 
 
 * **[Read my 'sales pitch' and 'high school CV'](why)**
