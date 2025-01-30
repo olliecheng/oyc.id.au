@@ -47,11 +47,9 @@ GitHub
 </style>
 ~~~
 
-My name is Ollie and I'm an undergraduate student at the University of Melbourne, majoring in Mathematics and Statistics. I'm interested in applying my studies in mathematics, computing, and biology to better interpret and model biological systems.
+My name is Ollie and I'm currently studying the first year of the [Doctor of Medicine at the University of Melbourne](https://study.unimelb.edu.au/find/courses/graduate/doctor-of-medicine/). Prior, I did my undergraduate studies in Mathematics and Statistics. I'm interested in applying my studies in biomedicine, mathematics, machine learning, and computing to better interpret and model biomedical systems. Ultimately, I hope that the integration of quantitative sciences can lead to better patient care and can make us all better clinicians.
 
 At the moment I work casually as a research assistant at the [Walter and Eliza Hall Institute](https://wehi.edu.au) in the Davidson Lab. I am also currently undertaking an undergraduate research project with the Shim Lab at [Melbourne Integrative Genomics](https://sites.research.unimelb.edu.au/integrative-genomics). I'm open and interested in learning more about bioinformatics and mathematical biology. A list of my research works can be found [here](/research/). My Google Scholar can be found [here](https://scholar.google.com/citations?user=42IT5z0AAAAJ&hl=en).
-
-This semester, I am taking [Modern Applied Statistics](https://handbook.unimelb.edu.au/subjects/mast30027), [International Relations: Key Concepts](https://handbook.unimelb.edu.au/subjects/pols20025), [Declarative Programming](https://handbook.unimelb.edu.au/subjects/comp30020), and the [Science Research Project](https://handbook.unimelb.edu.au/subjects/scie30001) as a third year student. Previously, I took the graduate-level [Computational Genomics](https://handbook.unimelb.edu.au/2023/subjects/comp90016/) subject through the Community Access Program.
 
 I also tutor the Western Australian Certificate of Education (WACE). If you're here for that, please see my dedicated [Tutoring](/tutor/) page. You should have a read through some of the [articles](/tutor/#my_articles) I've written!
 
