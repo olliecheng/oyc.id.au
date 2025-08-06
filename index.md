@@ -5,15 +5,6 @@
 Hi, welcome to my site.
 
 ~~~
-<div class="buttons" style="margin-bottom: 10px">
-<a href="/tutor/" style="background-color: #ffd9d9; border-color: #c72c2c;">
-🎓 Tutoring
-</a>
-
-<a href="/portfolio/" style="background-color: #d7fae8; border-color: #0a703c">
-📚 Portfolio
-</a>
-</div>
 
 <div class="buttons">
 <a href="https://linkedin.com/in/olliecheng" style="background-color: #cfcffc; border-color: #14296e">
@@ -47,10 +38,10 @@ GitHub
 </style>
 ~~~
 
-My name is Ollie and I'm currently studying the first year of the [Doctor of Medicine at the University of Melbourne](https://study.unimelb.edu.au/find/courses/graduate/doctor-of-medicine/). Prior, I did my undergraduate studies in Mathematics and Statistics. I'm interested in applying my studies in biomedicine, mathematics, machine learning, and computing to better interpret and model biomedical systems. Ultimately, I hope that the integration of quantitative sciences can lead to better patient care and can make us all better clinicians.
+My name is Ollie and I'm currently studying the first year of the [Doctor of Medicine at the University of Melbourne](https://study.unimelb.edu.au/find/courses/graduate/doctor-of-medicine/). Prior, I did my undergraduate studies in Mathematics and Statistics, also at Melbourne. I'm interested in applying my studies in biomedicine, mathematics, machine learning, and computing to better interpret and model biomedical systems. Ultimately, I hope that the integration of quantitative sciences can lead to better patient care and can make us all better clinicians.
 
-At the moment I work casually as a research assistant at the [Walter and Eliza Hall Institute](https://wehi.edu.au) in the Davidson Lab. I have previously worked with the Shim Lab at [Melbourne Integrative Genomics](https://sites.research.unimelb.edu.au/integrative-genomics) on both undergraduate course research as well as a research assistant. I'm open and interested in learning more about bioinformatics and mathematical biology. A list of my research works can be found [here](/research/). My Google Scholar can be found [here](https://scholar.google.com/citations?user=42IT5z0AAAAJ&hl=en).
+At the moment I work casually as a research assistant at the [Walter and Eliza Hall Institute](https://wehi.edu.au) in the Davidson Lab, and at [Melbourne Integrative Genomics](https://sites.research.unimelb.edu.au/integrative-genomics) in the Shim Lab. I'm open and interested in learning more about bioinformatics and mathematical biology. A list of my research works can be found [here](/research/). My Google Scholar can be found [here](https://scholar.google.com/citations?user=42IT5z0AAAAJ&hl=en).
 
-I also tutor the Western Australian Certificate of Education (WACE). If you're here for that, please see my dedicated [Tutoring](/tutor/) page. You should have a read through some of the [articles](/tutor/#my_articles) I've written!
+I used to tutor the Western Australian Certificate of Education (WACE). Unfortunately, due to time constraints, I am no longer taking on students. It was a wonderful experience and a real privilege to support so many students and families during their high school journey. Some of those students will become medical doctors in the future; I'm looking forward to working with them as colleagues!
 
 If you would like to get in touch, my contact details can be found [here](/contact/).

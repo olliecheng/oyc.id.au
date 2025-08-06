@@ -5,8 +5,8 @@
 :root {
   --block-background: hsl(0, 0%, 94%);
   --output-background: hsl(0, 0%, 98%);
-  --small: 14px;
-  --normal: 19px;
+  --small: 12px;
+  --normal: 16px;
   --text-color: hsv(0, 0%, 20%);
 }
 
@@ -15,7 +15,8 @@
 ================================================================== */
 
 html {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif; 
+  /* font-family: Helvetica, Arial, sans-serif; */
   font-size: var(--normal);
   color: var(--text-color);
 }
@@ -83,7 +84,7 @@ html {
   position: relative;
   padding-left: 12.5%;
   padding-right: 12.5%;
-  line-height: 1.35em;
+  line-height: 1.7em;
 }
 
 /* On wide screens, fix content width to a max value. */
