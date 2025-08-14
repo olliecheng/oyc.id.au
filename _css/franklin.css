@@ -15,7 +15,7 @@
 ================================================================== */
 
 html {
-  font-family: Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif; 
+  font-family: Lucida Grande,Lucida Sans Unicode,Lucida Sans,Trebuchet MS,Tahoma,sans-serif; 
   /* font-family: Helvetica, Arial, sans-serif; */
   font-size: var(--normal);
   color: var(--text-color);
